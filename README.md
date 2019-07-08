@@ -1,4 +1,4 @@
 # SCU-LOGO
 
-Vector logo drawn by TikZ of SCU.
+Vector logos drawn by TikZ of SCU.
 
