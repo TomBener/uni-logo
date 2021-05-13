@@ -10,6 +10,7 @@ Click to [download](https://github.com/TomBener/uni-logo/releases/download/1.0/l
 
 - [China University Vector Logo Collection](https://www.figma.com/community/file/916515339708288305)
 - [cnlogo](https://github.com/yuxtech/cnlogo)
+- [全国高校校徽字体图标库](https://github.com/lovefc/china_school_badge)
 
 ## License
 
